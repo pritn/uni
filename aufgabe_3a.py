@@ -1,6 +1,6 @@
-x = int(input('Stunden der momentanen Uhrzeit(berreich von 1-24): '))
+x = int(input('Stunden der momentanen Uhrzeit(Bereich von 1-24): '))
 y = int(input('Minuten der momentanen Uhrzeit: '))
-z = int(input('Wie viele Minuten Fliegen sie schon?: '))
+z = int(input('Wie viele Minuten fliegen Sie schon?: '))
 
 xm = x * 60
 w = xm + y
